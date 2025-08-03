@@ -18,6 +18,7 @@ jobs:
       DB_USERNAME: bookstoredbadmin
       GITHUB_USER: jordivilagut
       DOMAIN_NAME: llibresencatala.cat
+      KEY_PAIR: vitrstudio
 
     steps:
       - name: Checkout repo
